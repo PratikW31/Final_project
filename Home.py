@@ -182,6 +182,8 @@ def sideBar():
     Progressbar()
     graphs()
 
+sideBar()
+
 
 
 st.subheader('PICK FEATURES TO EXPLORE DISTRIBUTIONS TRENDS BY QUARTILES',)
@@ -212,9 +214,3 @@ footer {visibility:hidden;}
 header {visibility:hidden;}
 </style>
 """
-
-
-
-
-
-
