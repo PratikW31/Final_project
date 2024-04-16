@@ -182,8 +182,6 @@ def sideBar():
     Progressbar()
     graphs()
 
-sideBar()
-st.sidebar.image("data/111.png",caption="")
 
 
 st.subheader('PICK FEATURES TO EXPLORE DISTRIBUTIONS TRENDS BY QUARTILES',)
